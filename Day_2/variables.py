@@ -81,3 +81,6 @@ age_ = input('enter age ')
 
 print(firstname, lastname, country_, age_)
 
+# 14
+a, b, c = 1, 2, 3
+print(a, b, c)
